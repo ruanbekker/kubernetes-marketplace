@@ -60,7 +60,7 @@ spec:
         runAsUser: 1000
       containers:
         - name: coder
-          image: codercom/code-server:3.11.1
+          image: codercom/code-server:4.18.0
           imagePullPolicy: IfNotPresent
           env:
           - name: DOCKER_USER

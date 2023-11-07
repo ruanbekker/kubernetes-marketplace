@@ -13,4 +13,4 @@ Once you have installed this app you will be able to connect to the web interfac
 For more information, see the project's github repository and their documentation:
 
 * https://github.com/coder/code-server
-* https://coder.com/docs/code-server/v3.11.1/guide
+* https://coder.com/docs/code-server/v4.18.0/guide
